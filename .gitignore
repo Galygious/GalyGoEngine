@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.log
+*.out
+bin/
+vendor/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
